@@ -1,10 +1,10 @@
 {
   "version": "1.2.0",
   "urls": [
-    "https://raw.githubusercontent.com/thus1235/realm-of-taiwu-panel/main/Realm-of-Taiwu.exe",
-    "https://cdn.jsdelivr.net/gh/thus1235/realm-of-taiwu-panel@main/Realm-of-Taiwu.exe"
+    "https://cdn.jsdelivr.net/gh/thus1235/realm-of-taiwu-panel@main/Realm-of-Taiwu.exe",
+    "https://raw.githubusercontent.com/thus1235/realm-of-taiwu-panel/main/Realm-of-Taiwu.exe"
   ],
-  "sha256": "3ebe9da93f7118696ff116f8424e3081364a51af015888662b8fb91d0578c841",
-  "notes": "首个自动更新版本：去掉顶部白条，接入自动更新（多源回退）",
+  "sha256": "3c3d4b9f6839d6cc776e0cc9f6d4adff1635da6caeb4c31354dcd691c0527adb",
+  "notes": "CDN 优先 + 取多源最高版本",
   "page": "https://github.com/thus1235/realm-of-taiwu-panel"
 }
