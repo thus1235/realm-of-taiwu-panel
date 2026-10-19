@@ -5,6 +5,6 @@
     "https://raw.githubusercontent.com/thus1235/realm-of-taiwu-panel/main/Realm-of-Taiwu.exe"
   ],
   "sha256": "3c3d4b9f6839d6cc776e0cc9f6d4adff1635da6caeb4c31354dcd691c0527adb",
-  "notes": "CDN 优先 + 取多源最高版本",
+  "notes": "CDN 缓存自动刷新",
   "page": "https://github.com/thus1235/realm-of-taiwu-panel"
 }
