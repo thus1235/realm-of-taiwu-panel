@@ -1,0 +1,10 @@
+{
+  "version": "1.2.0",
+  "urls": [
+    "https://raw.githubusercontent.com/thus1235/realm-of-taiwu-panel/main/Realm-of-Taiwu.exe",
+    "https://cdn.jsdelivr.net/gh/thus1235/realm-of-taiwu-panel@main/Realm-of-Taiwu.exe"
+  ],
+  "sha256": "fe9cdd08470ba2ad9c469ed088d5abf480a175f1de5e5e732ce92979ac3cdc14",
+  "notes": "首个自动更新版本：去掉顶部白条，接入自动更新",
+  "page": "https://github.com/thus1235/realm-of-taiwu-panel"
+}
